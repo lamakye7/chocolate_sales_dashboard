@@ -18,12 +18,12 @@ Here are some snapshots of the dashboard in action:
 ![Dashboard Snapshot 2](report2.PNG)
 
 ### Snapshot 3
-![Dashboard Snapshot 3](report3,PNg)
+![Dashboard Snapshot 3](report3.PNg)
 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/lamakye7/chocolate_sales_dashboard/tree/main>
    ```
 2. Open the Power BI file in Power BI Desktop.
 3. Update the data source paths if needed.
