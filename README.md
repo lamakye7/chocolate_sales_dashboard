@@ -18,7 +18,7 @@ Here are some snapshots of the dashboard in action:
 ![Dashboard Snapshot 2](report2.PNG)
 
 ### Snapshot 3
-![Dashboard Snapshot 3](report3.PNg)
+![Dashboard Snapshot 3](report3.PNG)
 
 ## How to Use
 1. Clone the repository:
@@ -29,7 +29,7 @@ Here are some snapshots of the dashboard in action:
 3. Update the data source paths if needed.
 
 ## YouTube Tutorial Reference
-This dashboard was developed by following [this YouTube tutorial](insert_video_link_here). Special thanks to the content creator for their clear instructions and valuable insights.
+This dashboard was developed by following [this YouTube tutorial](https://youtu.be/ooJO7NW4uJU?si=BT5LVhBe88Y2jVHx). Special thanks to the content creator for their clear instructions and valuable insights.
 
 ## Tools and Technologies Used
 - Power BI Desktop
@@ -39,5 +39,5 @@ This dashboard was developed by following [this YouTube tutorial](insert_video_l
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contact
-For questions or feedback, please feel free to reach out.
+For questions or feedback, please feel free to reach out @ louisamakye20@gmail.com
 
