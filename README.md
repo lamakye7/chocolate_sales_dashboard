@@ -12,13 +12,13 @@ This project features a Power BI dashboard developed to visualize key business m
 Here are some snapshots of the dashboard in action:
 
 ### Snapshot 1
-![Dashboard Snapshot 1](path_to_image_1)
+![Dashboard Snapshot 1](report.PNG)
 
 ### Snapshot 2
-![Dashboard Snapshot 2](path_to_image_2)
+![Dashboard Snapshot 2](report2.PNG)
 
 ### Snapshot 3
-![Dashboard Snapshot 3](path_to_image_3)
+![Dashboard Snapshot 3](report3,PNg)
 
 ## How to Use
 1. Clone the repository:
